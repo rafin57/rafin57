@@ -81,17 +81,12 @@
 
 ---
 
-### 💭 Quote to Code By
-> *"Code it. Break it. Fix it. Learn from it. Repeat endlessly."*
 
 ---
 
 <br clear="both">
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rafin57/rafin57/output/snake-dark.svg" alt="Snake animation dark" />
-</p>
 
 
 ---
