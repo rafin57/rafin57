@@ -1,7 +1,7 @@
 <!-- ✨ B.M. Rafin Rahman's GitHub Profile ✨ -->
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">B.M. Rafin Rahman</span></h1>
-<h3 align="center">💡 IoT Developer | 🤖 ML & Data Science Enthusiast | 🧩 Competitive Programmer | ⚙️ ECE Engineer</h3>
+<h3 align="center"> 🤖 ML & Data Science Enthusiast | 🧩 Competitive Programmer | ⚙️ ECE Engineer|💡 IoT Developer </h3>
 
 ---
 
@@ -9,8 +9,6 @@
 ---
 
 ### 🌟 About Me  
-
-- 🔭 Working on **Fire Fighting Robot using Arduino | Auto Fire Chaser and Extinguisher**  
 - 🌱 Learning **Data Science & Machine Learning with Python**  
 - ⚡ Passionate about **IoT + AI integration**, combining hardware and intelligence  
 - 🧠 Exploring **automation, smart devices, and AI-driven embedded systems**  
@@ -90,7 +88,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rafin57/rafin57/output/snake.svg" alt="Snake animation" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rafin57/rafin57/output/snake-dark.svg" alt="Snake animation dark" />
+</p>
+
 
 ---
 
