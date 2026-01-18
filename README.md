@@ -64,7 +64,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rafin-rahman-2b1333325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="[https://www.linkedin.com/in/rafin-rahman-2b1333325/](https://www.linkedin.com/in/b-m-rafin-rahman-2b1333325/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   <a href="https://www.facebook.com/rafi.rahman.716533" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bm rafin rahman" height="30" width="40" /></a>
   <a href="https://www.instagram.com/rafin_rahman_04/?__pwa=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafin_rahman_04" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/rafinrahman698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rafinrahman698" height="30" width="40" /></a>
