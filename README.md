@@ -1,3 +1,4 @@
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-10b981?style=for-the-badge)](https://rafin57.github.io/rafin57/)
 <!DOCTYPE html>
 <html lang="en">
 <head>
